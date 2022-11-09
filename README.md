@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ilias-anouar
-- 👀 I’m interested all new programming technologies
+- 👀 I’m interested in all new programming technologies
 - 🌱 I’m currently learning web development
 - 📫 How to reach me :
 - https://www.instagram.com/ilias.anouar.01/
