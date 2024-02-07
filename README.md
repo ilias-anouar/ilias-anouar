@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m @ilias-anouar<br>👀 I’m interested in all new programming technologies<br>🌱 I’m currently learning web development
+👋 Hi, I’m @ilias-anouar<br>👀 I’m interested in all new programming technologies<br>🌱 I’m currently a jr Full-Stack web developer
 
 
 ## 🌐 Socials:
