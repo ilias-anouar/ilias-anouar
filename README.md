@@ -7,7 +7,7 @@
 ## 🌐 Socials:
 ###
 
-<img align="right" height="200" src="https://github.com/ilias-anouar/ilias-anouar/assets/115695877/3fe02a1d-6496-4474-b9c1-de188d027705"/>
+<img align="right" height="250" src="https://github.com/ilias-anouar/ilias-anouar/assets/115695877/3fe02a1d-6496-4474-b9c1-de188d027705"/>
 
 <div align="left">
   <a href="https://www.instagram.com/ilias.anouar.01/" target="_blank">
