@@ -3,8 +3,8 @@
   👋 Hi, I’m @ilias-anouar<br>👀 I’m interested in all new programming technologies<br>🌱 I’m currently a jr Full-Stack web developer<br>
 </div>
 <div align="right">
- ![e](https://github.com/ilias-anouar/ilias-anouar/assets/115695877/3fe02a1d-6496-4474-b9c1-de188d027705)]
 </div>
+ ![e](https://github.com/ilias-anouar/ilias-anouar/assets/115695877/3fe02a1d-6496-4474-b9c1-de188d027705)]
 
 ## PortFolio : 
 ### https://ilias-anouar.github.io
