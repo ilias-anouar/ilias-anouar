@@ -33,7 +33,6 @@
   </a>
 </div>
 
-###
 
 # 💻 Tech Stack:
 <div align="left">
