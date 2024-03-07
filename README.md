@@ -1,10 +1,10 @@
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Kode+Mono&weight=700&size=22&color=00A707&center=true&vCenter=true&random=false&width=500&height=70&&duration=4000&lines=Hi+There+%F0%9F%91%8B;I'm+Ilias+Anouar;JR+full-stack+developer;Check+my+profile" />
-</h1>
-
 
 # 💫 About Me:
-👋 Hi, I’m @ilias-anouar<br>👀 I’m interested in all new programming technologies<br>🌱 I’m currently a jr Full-Stack web developer<br>
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Kode+Mono&weight=700&size=22&color=00A707&center=true&vCenter=true&random=false&width=500&height=70&&duration=4000&lines=Hi+There+%F0%9F%91%8B;I'm+Ilias+Anouar;JR+full-stack+developer+🌱;Check+my+profile" />
+</h1>
+
+//👋 Hi, I’m @ilias-anouar<br>👀 I’m interested in all new programming technologies<br> I’m currently a jr Full-Stack web developer<br>
 
 ## PortFolio : 
 ### https://ilias-anouar.github.io
