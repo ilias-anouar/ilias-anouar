@@ -1,3 +1,8 @@
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Ilias+jr+Full-Stack+web+developer+!;" />
+</h1>
+
+
 # 💫 About Me:
 👋 Hi, I’m @ilias-anouar<br>👀 I’m interested in all new programming technologies<br>🌱 I’m currently a jr Full-Stack web developer<br>
 
