@@ -109,10 +109,7 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=ilias-anouar&icon=0&color=0)](https://visitcount.itsvg.in)<br>
-
-![github-user-contribution](https://github.com/ilias-anouar/ilias-anouar/assets/115695877/78b292cc-3b26-4a9b-b676-abc92fd27be1)
-
- <picture>
+<picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ilias-anouar/ilias-anouar/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ilias-anouar/ilias-anouar/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ilias-anouar/ilias-anouar/output/github-contribution-grid-snake.svg">
